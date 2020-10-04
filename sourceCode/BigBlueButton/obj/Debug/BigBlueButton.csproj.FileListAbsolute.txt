@@ -1,0 +1,11 @@
+C:\Users\ADMIN\source\repos\VConfConnect\VConfConnect\sourceCode\BigBlueButton\obj\Debug\BigBlueButton.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\VConfConnect\VConfConnect\sourceCode\BigBlueButton\bin\Debug\VConfConnect.BigBlueButton.dll
+C:\Users\ADMIN\source\repos\VConfConnect\VConfConnect\sourceCode\BigBlueButton\bin\Debug\VConfConnect.BigBlueButton.pdb
+C:\Users\ADMIN\source\repos\VConfConnect\VConfConnect\sourceCode\BigBlueButton\obj\Debug\VConfConnect.BigBlueButton.dll
+C:\Users\ADMIN\source\repos\VConfConnect\VConfConnect\sourceCode\BigBlueButton\obj\Debug\VConfConnect.BigBlueButton.pdb
+E:\VideoConf\VConfConnect\sourceCode\BigBlueButton\bin\Debug\VConfConnect.BigBlueButton.dll
+E:\VideoConf\VConfConnect\sourceCode\BigBlueButton\bin\Debug\VConfConnect.BigBlueButton.pdb
+E:\VideoConf\VConfConnect\sourceCode\BigBlueButton\obj\Debug\BigBlueButton.csprojAssemblyReference.cache
+E:\VideoConf\VConfConnect\sourceCode\BigBlueButton\obj\Debug\BigBlueButton.csproj.CoreCompileInputs.cache
+E:\VideoConf\VConfConnect\sourceCode\BigBlueButton\obj\Debug\VConfConnect.BigBlueButton.dll
+E:\VideoConf\VConfConnect\sourceCode\BigBlueButton\obj\Debug\VConfConnect.BigBlueButton.pdb
